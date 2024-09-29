@@ -4,12 +4,6 @@ Bu repo Patika+ Bootcampte bulunma nedenimi bir kod ile konsola yazdırdığım 
 
 Basit bir işlem olduğu için kontrol etmek isteyen olursa diye kodları buraya da yapıştırdım aşağıda görebilirsiniz.
 
-using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
-
 
 ```csharp
 using System;
